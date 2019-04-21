@@ -45,6 +45,6 @@ coche1.estado()
 print("-----------Segundo objeto--------------")
 coche2=Coche()
 print(coche2.arrancar(False))
-coche2.ruedas=2
+coche2.ruedas=2g
 coche2.estado()
 
